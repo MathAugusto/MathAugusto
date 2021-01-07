@@ -37,7 +37,7 @@
 
 <tr>
     <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathAugusto&hide=html&layout=compact&theme=buefy" /></td>
-    <td><img width="450px" align="right" src="https://github-readme-stats.vercel.app/api?username=MathAugusto&theme=buefy" /></td>
+    <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=MathAugusto&theme=buefy" /></td>
 </tr>
 
 
