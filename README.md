@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathaugusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -7,14 +7,17 @@
 <!--
 **MathAugusto/MathAugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+**Languages and Tools:**  
+<code><img height="30" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathaugusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<code><img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
+<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"></code>
+
+
 
 Here are some ideas to get you started:
 
