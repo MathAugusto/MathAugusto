@@ -111,13 +111,8 @@
 
 
 <a href="https://github.com/MathAugusto">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathAugusto&theme=radical&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathAugusto&theme=dark&hide=glsl,python" />
 </a>
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=MathAugusto&&show_icons=true&theme=radical&line_height=27&v=5" alt="MathAugusto GitHub Stats" />
-
 
 
 
