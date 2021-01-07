@@ -3,18 +3,29 @@
 
 **Languages and Tools:**  
 
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+
 
 
 <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQG2-bElRVrSqw/company-logo_200_200/0/1547450366259?e=2159024400&v=beta&t=OpI315QOVOkFjDgZPAGF_Kw7N490Y6bkILBCrjliQUQ"></code>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathaugusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<a href="matheusacds@hotmail.com">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/outlook.svg" />
+</a>
+<a href="https://www.linkedin.com/in/matheus-augusto-9aa34a165/">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/MathAugusto">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 <!--
 **MathAugusto/MathAugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,16 +39,16 @@
 
 
 
-# <a href="https://www.linkedin.com/in/matheus-augusto-9aa34a165/" Matheus Augusto </a>
+# <a href="https://www.linkedin.com/in/matheus-augusto-9aa34a165/">Matheus Augusto </a>
 
-<a href="https://twitter.com/Neel_3056">
-  <img align="left" alt="Neel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="matheusacds@hotmail.com">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/outlook.svg" />
 </a>
-<a href="https://linkedin.com/in/gorasiyaneel">
-  <img align="left" alt="Neel's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/matheus-augusto-9aa34a165/">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Neel2904">
-  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/MathAugusto">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/neelg._.3056">
   <img align="left" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
