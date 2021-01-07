@@ -18,7 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathaugusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="matheusacds@hotmail.com">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/outlook.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />
 </a>
 <a href="https://www.linkedin.com/in/matheus-augusto-9aa34a165/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
