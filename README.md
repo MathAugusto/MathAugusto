@@ -3,7 +3,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
 
 <!--
 **MathAugusto/MathAugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +18,10 @@
 
 
 
-<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="50" src="https://media-exp1.licdn.com/dms/image/C560BAQG2-bElRVrSqw/company-logo_200_200/0/1547450366259?e=2159024400&v=beta&t=OpI315QOVOkFjDgZPAGF_Kw7N490Y6bkILBCrjliQUQ"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathaugusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
