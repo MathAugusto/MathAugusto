@@ -18,6 +18,7 @@
    - Desenvolvedor de Aplicações na IBM
    - Forte interesse em Visão Computacional e Deep Learning
    - Adoro explorar novas tecnologias 
+   - Interesse por Finanças e Business Intelligence
    - Machine Learning Scientist Enthusiast
 
 
