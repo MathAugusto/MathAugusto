@@ -16,9 +16,8 @@
    - Graduando em Ciência de Dados e Análise e Desenvolvimento de Sistemas
    - Apaixonado por AI & Machine Learning
    - Desenvolvedor de Aplicações na IBM
-   - Estudando Visão Computacional e Data Science aplicada à finanças
    - Adoro explorar novas tecnologias 
-   - Interesse por Finanças e Business Intelligence
+   - Interesse por Deep Learning, Business Intelligence, Finanças e Investimentos. 
    - Machine Learning Scientist Enthusiast
 
 
