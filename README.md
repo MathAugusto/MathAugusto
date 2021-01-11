@@ -18,7 +18,6 @@
    - Desenvolvedor de Aplicações na IBM
    - Adoro explorar novas tecnologias 
    - Interesse por Deep Learning, Business Intelligence, Finanças e Investimentos. 
-   - Machine Learning Scientist Enthusiast
 
 
 
