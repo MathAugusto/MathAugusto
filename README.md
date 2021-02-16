@@ -15,7 +15,7 @@
   
    - Graduando em Ciência de Dados e Análise e Desenvolvimento de Sistemas
    - Apaixonado por AI & Machine Learning
-   - Desenvolvedor de Aplicações na IBM
+   - DevOps Specialist na IBM
    - Adoro explorar e aprender novas tecnologias e ferramentas
    - Interesse por Deep Learning, Business Intelligence, Finanças e Investimentos
 
