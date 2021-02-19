@@ -17,8 +17,7 @@
    - Apaixonado por AI & Machine Learning
    - DevOps Specialist na IBM
    - Adoro explorar e aprender novas tecnologias e ferramentas
-   - Interesse por Deep Learning, Business Intelligence, Finanças e Investimentos
-
+   - Interesse por Deep Learning, BI e Data Engineering
 
 
 **Languages and Tools:**  
