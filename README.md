@@ -17,7 +17,7 @@
    - AI & Machine Learning
    - DevOps Specialist na IBM
    - Adoro explorar e aprender novas tecnologias e ferramentas
-   - Interesses por Deep Learning, BI e Data Engineering
+   - Interesses por Deep Learning, Cloud, BI e Data Engineering
 
 
 **Languages and Tools:**  
