@@ -14,8 +14,7 @@
 ## About :
   
    - Graduando em Ciência de Dados e Análise e Desenvolvimento de Sistemas
-   - AI, Machine Learning, Deep Learning & Cloud :heart: 
-   - DevOps Specialist na IBM
+   - AI & Cloud :heart: 
    - Adoro explorar e aprender novas tecnologias e ferramentas
    
 
