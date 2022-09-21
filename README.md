@@ -14,7 +14,7 @@
 ## About :
   
    - Graduando em Ciência de Dados e Análise e Desenvolvimento de Sistemas
-   - AI & Cloud :heart: 
+   - Cloud :heart: 
    - Adoro explorar e aprender novas tecnologias e ferramentas
    
 
