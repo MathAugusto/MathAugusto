@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/matheus-augusto-9aa34a165/">Matheus Augusto </a>
+# <a href="https://www.linkedin.com/in/matheus-augusto-costa-da-silva/">Matheus Augusto </a>
 
 <a href="https://www.linkedin.com/in/matheus-augusto-costa-da-silva/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
