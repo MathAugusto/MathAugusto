@@ -13,9 +13,9 @@
 
 ## About :
   
-   - Graduando em Ciência de Dados e Análise e Desenvolvimento de Sistemas
-   - Cloud :heart: 
-   - Adoro explorar e aprender novas tecnologias e ferramentas
+   - Solutions Engineer at ServiceNow, B.Tech in Systems Analysis and Development
+   - Cloud Computing :heart: 
+   - Passionate about learning new technologies and programming languages.
    
 
 **Languages and Tools:**  
