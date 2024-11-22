@@ -13,7 +13,7 @@
 
 ## About :
   
-   - Solutions Engineer at ServiceNow, B.Tech in Systems Analysis and Development
+   - Cloud Solutions Engineer at Google, MBA in Cloud Engineering 
    - Cloud Computing :heart: 
    - Passionate about learning new technologies and programming languages.
    
